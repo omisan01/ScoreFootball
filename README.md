@@ -1,6 +1,6 @@
 # football_app
 
-A new Flutter project.
+An app which shows Football live scores and news. 
 
 ## Getting Started
 
